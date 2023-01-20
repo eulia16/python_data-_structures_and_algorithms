@@ -1,0 +1,13 @@
+
+
+This is the notes for data structures and algs in python, atleast the general notes for rn, we will be reading this book to not only get a better grasp of python, but also re-learn/re-enforce understandings of all the data structures and algs we learned last semester. 
+-We will update the time spent reading and how much progress page-wise we made
+every time we read/do shit from the book. This will be the "general ledger" of the entire times tracked, so make more notes.txt files for each chapter for more specific comments and shit, but from this paragraph on, this file will only contain times and pages, along with other pertanent info
+-good luck fucker
+July 13 10:07-started reading book(page 1)
+July 1 
+
+
+January 20 2023 halfway through chapter 8(Trees), we skipped chapter 4 as a result of being bored with recursion in python, so we skipped it, we will attempt to now implement many of the projects at the end of each chapter and then push them to GitHub as an attempt to become very proficient not only in python but also data structures in general.
+
+-chapter 5 we will attempt to do all of the project ideas as a way to refresh on some python and they don't seem too hard so we will just try to do all of them, also they will help with cryptology this semester as we will be doing ciphers and using python so its a perfect combination. 

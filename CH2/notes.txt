@@ -1,0 +1,2 @@
+this is chapter 2 of the DS&A book, this is an overview of Object Oreinted python programming, I assume the exercises will be more challenging, but also actually useful, make sure to really comprehend the material in this section as ti will be pretty crucial in understanding the data structures and algs implemented later on in the book, were makin good progress, keep it up
+**date started chapter 2: Wed Jul 20, we have abt a month until school begins, try and finish the book before then!

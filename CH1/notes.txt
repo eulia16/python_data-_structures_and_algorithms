@@ -1,0 +1,1 @@
+This is the notes for chapter 1, probably wont have a lot as this chapter is just a refresher on python the language
