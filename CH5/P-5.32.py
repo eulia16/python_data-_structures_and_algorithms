@@ -9,7 +9,7 @@ def component_wise_addition(n1, n2):
     for i in range(len(n1)):
         for j in range(len(n2)):
             result[i][j] = n1[i][j] + n2[i][j]
-    return result;
+    return result
 
 
 if __name__ == '__main__':
